@@ -1,0 +1,29 @@
+package ar.edu.unlp.info.oo2.Ejercicio1P3;
+
+public class Finished implements Estado{
+
+	@Override
+	public void start(ToDoItem i) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void togglePause(ToDoItem i) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void finish(ToDoItem i) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public String getEstado() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

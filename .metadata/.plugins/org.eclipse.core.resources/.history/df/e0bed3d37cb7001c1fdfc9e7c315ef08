@@ -1,0 +1,20 @@
+package ar.edu.unlp.info.oo2.Ejercicio1P3;
+
+import static org.junit.jupiter.api.Assertions.assertTrue;
+
+import org.junit.jupiter.api.*;
+
+public class ToDoItemTest {
+
+	private ToDoItem item;
+	
+	@BeforeEach
+	public void SetUp() {
+		item = new ToDoItem("jorgito");
+	}
+	
+	@Test
+	void verNombre() {
+		assertTrue("jorgito", item.getName());
+	}
+}

@@ -1,0 +1,42 @@
+package ar.edu.unlp.info.oo2.Ejercicio3P2;
+
+import java.time.LocalDate;
+import java.util.ArrayList;
+import java.util.Comparator;
+
+public class Directorio extends FileComponent {
+	
+	private ArrayList<FileComponent> archivos;
+
+	public Directorio(String nombre, LocalDate fecha) {
+		super(nombre, fecha, 32);
+		archivos= new ArrayList<>();
+	}
+	
+	public void agregar(FileComponent a) {
+		archivos.add(a);
+	}
+
+
+	@Override
+	public FileComponent archivoMasGrande() {
+		//archivos.stream().max((var1,var2) -> Integer.compare(var1, var2)).get();
+		return archivos.stream().max(Comparator.comparing(FileComponent::getTamanio)).get();
+	}
+
+	@Override
+	public FileComponent archivoMasNuevo() {
+		// TODO Auto-generated method stub
+	return archivos.stream().max(Comparator.comparing(FileComponent::getFecha)).orElse(null);
+	}
+	
+	public int getTamanio(){
+		return this.tamanoTotalOcupado();
+	}
+	public int tamanoTotalOcupado() {
+		return archivos.stream().mapToInt(arch -> arch.getTamanio()).sum() + this.tamaño;
+	}
+	
+	
+
+}

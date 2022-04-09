@@ -1,0 +1,36 @@
+package ar.edu.unlp.info.oo2.Ejercicio1P3;
+
+import java.time.Duration;
+
+public class Pending implements Estado {
+
+	@Override
+	public void start(ToDoItem i) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void togglePause(ToDoItem i) {
+		throw new RuntimeException("El objeto ToDoItem no se encuentra en pause o in-progress");
+	}
+
+	@Override
+	public void finish(ToDoItem i) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public Duration workedTime(ToDoItem i) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public String getEstado() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	
+}

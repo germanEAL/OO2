@@ -1,0 +1,30 @@
+package ar.edu.unlp.info.oo2.Ejercicio3P2;
+
+import java.time.LocalDate;
+
+public class Directorio extends FileComponent {
+	
+	private ArrayList<ArchivoComponent> archivos;
+
+	public Directorio(String nombre, LocalDate fecha) {
+		super(nombre, fecha, 32);
+	}
+
+	@Override
+	public int getTamanio() {
+		return ;
+	}
+
+	@Override
+	public FileComponent archivoMasGrande() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public FileComponent archivoMasNuevo() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

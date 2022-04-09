@@ -1,0 +1,18 @@
+package ar.edu.unlp.info.oo2.Ejercicio3P3;
+
+public class Connection4GAdapter implements Connection {
+	private Connection4G Adapter;
+	
+	@Override
+	public String sendData(String data, int crc) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public String pict() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
