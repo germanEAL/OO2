@@ -9,7 +9,7 @@ public class Dispositivo {
 		this.conect = new WifiConnection();
 		this.ringRing = new Ringer();
 		this.crc = new Crc16calculator();
-		this.dis = dis;
+		this.dis = new Display();
 	}
 	
 	

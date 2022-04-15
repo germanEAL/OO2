@@ -1,5 +1,0 @@
-package ar.edu.unlp.info.oo2.Ejercicio1P3;
-
-public class Finished implements Estado{
-
-}
