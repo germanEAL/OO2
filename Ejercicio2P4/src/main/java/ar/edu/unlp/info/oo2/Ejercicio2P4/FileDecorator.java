@@ -12,7 +12,7 @@ public abstract class FileDecorator implements File{
 	}
 	
 	public String prettyPrint(String print) {
-		return print + " -" + this.ConcreteComponent.prettyPrint(); 
+		return print + "-" + this.ConcreteComponent.prettyPrint(); 
 	}
 	public String getNombre() {
 		return this.ConcreteComponent.getNombre();

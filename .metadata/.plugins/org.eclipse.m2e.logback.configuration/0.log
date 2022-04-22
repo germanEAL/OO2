@@ -1543,3 +1543,71 @@
 2022-04-16 13:43:44,555 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ger_r\Documents\Facultad\Tercer Año\Orientacion a Objetos 2\Ejercicio2P4\src\test\resources
 2022-04-16 13:44:00,014 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-04-16 13:44:00,014 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ger_r\Documents\Facultad\Tercer Año\Orientacion a Objetos 2\Ejercicio2P4\src\main\resources
+2022-04-16 13:44:00,016 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-16 13:44:00,016 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ger_r\Documents\Facultad\Tercer Año\Orientacion a Objetos 2\Ejercicio2P4\src\test\resources
+2022-04-21 17:55:27,486 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-04-21 17:56:35,787 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-21 17:56:35,789 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ger_r\Documents\Facultad\Tercer Año\Orientacion a Objetos 2\Ejercicio2P4\src\main\resources
+2022-04-21 17:56:35,793 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-21 17:56:35,793 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ger_r\Documents\Facultad\Tercer Año\Orientacion a Objetos 2\Ejercicio2P4\src\test\resources
+2022-04-21 18:02:59,377 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-21 18:02:59,377 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ger_r\Documents\Facultad\Tercer Año\Orientacion a Objetos 2\Ejercicio2P4\src\main\resources
+2022-04-21 18:02:59,379 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-21 18:02:59,379 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ger_r\Documents\Facultad\Tercer Año\Orientacion a Objetos 2\Ejercicio2P4\src\test\resources
+2022-04-21 18:03:34,267 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-21 18:03:34,268 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ger_r\Documents\Facultad\Tercer Año\Orientacion a Objetos 2\Ejercicio2P4\src\main\resources
+2022-04-21 18:03:34,271 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-21 18:03:34,271 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ger_r\Documents\Facultad\Tercer Año\Orientacion a Objetos 2\Ejercicio2P4\src\test\resources
+2022-04-21 18:03:55,019 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-21 18:03:55,020 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ger_r\Documents\Facultad\Tercer Año\Orientacion a Objetos 2\Ejercicio2P4\src\main\resources
+2022-04-21 18:03:55,022 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-21 18:03:55,023 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ger_r\Documents\Facultad\Tercer Año\Orientacion a Objetos 2\Ejercicio2P4\src\test\resources
+2022-04-22 14:51:13,025 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-04-22 14:53:54,301 [Worker-3: Creating objetos-dos] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\ger_r\Documents\Facultad\Tercer Año\Orientacion a Objetos 2\EjercicioSpOOtify\pom.xml
+2022-04-22 14:54:02,741 [Worker-3: Creating objetos-dos] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ar.edu.unlp.info.oo2:EjercicioSpOOtify:0.0.1-SNAPSHOT @ C:\Users\ger_r\Documents\Facultad\Tercer Año\Orientacion a Objetos 2\EjercicioSpOOtify\pom.xml.
+2022-04-22 14:54:05,237 [Worker-3: Creating objetos-dos] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EjercicioSpOOtify/src/main/java
+2022-04-22 14:54:05,239 [Worker-3: Creating objetos-dos] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EjercicioSpOOtify/src/test/java
+2022-04-22 14:54:05,284 [Worker-3: Creating objetos-dos] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 10 sec
+2022-04-22 14:54:15,979 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-22 14:54:15,980 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ger_r\Documents\Facultad\Tercer Año\Orientacion a Objetos 2\EjercicioSpOOtify\src\main\resources
+2022-04-22 14:54:15,984 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-22 14:54:15,984 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ger_r\Documents\Facultad\Tercer Año\Orientacion a Objetos 2\EjercicioSpOOtify\src\test\resources
+2022-04-22 14:59:53,693 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-22 14:59:53,693 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ger_r\Documents\Facultad\Tercer Año\Orientacion a Objetos 2\EjercicioSpOOtify\src\main\resources
+2022-04-22 14:59:53,695 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-22 14:59:53,695 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ger_r\Documents\Facultad\Tercer Año\Orientacion a Objetos 2\EjercicioSpOOtify\src\test\resources
+2022-04-22 15:00:41,045 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-22 15:00:41,046 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ger_r\Documents\Facultad\Tercer Año\Orientacion a Objetos 2\EjercicioSpOOtify\src\main\resources
+2022-04-22 15:00:41,048 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-22 15:00:41,048 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ger_r\Documents\Facultad\Tercer Año\Orientacion a Objetos 2\EjercicioSpOOtify\src\test\resources
+2022-04-22 15:00:49,349 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-22 15:00:49,350 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ger_r\Documents\Facultad\Tercer Año\Orientacion a Objetos 2\EjercicioSpOOtify\src\main\resources
+2022-04-22 15:00:49,353 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-22 15:00:49,354 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ger_r\Documents\Facultad\Tercer Año\Orientacion a Objetos 2\EjercicioSpOOtify\src\test\resources
+2022-04-22 15:01:33,296 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-22 15:01:33,296 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ger_r\Documents\Facultad\Tercer Año\Orientacion a Objetos 2\EjercicioSpOOtify\src\main\resources
+2022-04-22 15:01:33,300 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-22 15:01:33,300 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ger_r\Documents\Facultad\Tercer Año\Orientacion a Objetos 2\EjercicioSpOOtify\src\test\resources
+2022-04-22 15:01:56,274 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-22 15:01:56,275 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ger_r\Documents\Facultad\Tercer Año\Orientacion a Objetos 2\EjercicioSpOOtify\src\main\resources
+2022-04-22 15:01:56,277 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-22 15:01:56,278 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ger_r\Documents\Facultad\Tercer Año\Orientacion a Objetos 2\EjercicioSpOOtify\src\test\resources
+2022-04-22 15:02:14,676 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-22 15:02:14,677 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ger_r\Documents\Facultad\Tercer Año\Orientacion a Objetos 2\EjercicioSpOOtify\src\main\resources
+2022-04-22 15:02:14,679 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-22 15:02:14,679 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ger_r\Documents\Facultad\Tercer Año\Orientacion a Objetos 2\EjercicioSpOOtify\src\test\resources
+2022-04-22 15:02:56,084 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-22 15:02:56,085 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ger_r\Documents\Facultad\Tercer Año\Orientacion a Objetos 2\EjercicioSpOOtify\src\main\resources
+2022-04-22 15:02:56,089 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-22 15:02:56,089 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ger_r\Documents\Facultad\Tercer Año\Orientacion a Objetos 2\EjercicioSpOOtify\src\test\resources
+2022-04-22 15:03:09,590 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-22 15:03:09,591 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ger_r\Documents\Facultad\Tercer Año\Orientacion a Objetos 2\EjercicioSpOOtify\src\main\resources
+2022-04-22 15:03:09,592 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-22 15:03:09,593 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ger_r\Documents\Facultad\Tercer Año\Orientacion a Objetos 2\EjercicioSpOOtify\src\test\resources
+2022-04-22 15:03:37,519 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-22 15:03:37,519 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ger_r\Documents\Facultad\Tercer Año\Orientacion a Objetos 2\EjercicioSpOOtify\src\main\resources
+2022-04-22 15:03:37,521 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-22 15:03:37,522 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ger_r\Documents\Facultad\Tercer Año\Orientacion a Objetos 2\EjercicioSpOOtify\src\test\resources
+2022-04-22 15:03:42,278 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-22 15:03:42,279 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ger_r\Documents\Facultad\Tercer Año\Orientacion a Objetos 2\EjercicioSpOOtify\src\main\resources
+2022-04-22 15:03:42,280 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.

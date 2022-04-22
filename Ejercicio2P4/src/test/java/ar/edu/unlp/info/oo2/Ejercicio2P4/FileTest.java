@@ -18,7 +18,7 @@ public class FileTest {
 		NombreDecorator nombreD = new NombreDecorator(file);
 		TamañoDecorator tamañoD = new TamañoDecorator(nombreD);
 		PermisosDecorator permisosD = new PermisosDecorator(tamañoD);
-		assertEquals(" usuario - 64.0 - archivito - ",permisosD.prettyPrint());
+		assertEquals("usuario-64.0-archivito- ",permisosD.prettyPrint());
 	}
 	
 }
