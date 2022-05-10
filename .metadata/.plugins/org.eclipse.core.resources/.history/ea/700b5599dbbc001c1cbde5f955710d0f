@@ -1,5 +1,0 @@
-package ar.edu.unlp.info.oo2.accesobd;
-
-public class DatabaseProxyTest {
-	private DatabaseProxy proxy;
-}

@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\ger_r\Documents\Facultad\Tercer Año\Orientacion a Objetos 2\Ejercicio2P4\src\test\java\ar\edu\unlp\info\oo2\Ejercicio2P4\FileTest.java"/>
 			<item value="C:\Users\ger_r\Downloads\ej-biblioteca\src\test\java\ar\edu\unlp\info\oo2\biblioteca\BibliotecaTest.java"/>
 			<item value="C:\Users\ger_r\Documents\Facultad\Tercer Año\Orientacion a Objetos 2\Ejercicio3P2\src\main\java\ar\edu\unlp\info\oo2\Ejercicio3P2\Directorio.java"/>
 			<item value="C:\Users\ger_r\Downloads\ej-biblioteca\src\main\java\ar\edu\unlp\info\oo2\biblioteca\VoorheesExporter.java"/>
@@ -30,6 +31,7 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="ar.edu.unlp.info.oo2.EjercicioSpOOtify"/>
 			<item value="ar.edu.unlp.info.oo2.Ejercicio2P4"/>
 			<item value="ar.edu.unlp.info.oo2.Ejercicio3P3"/>
 			<item value="ar.edu.unlp.info.oo2.Ejercicio1P3"/>
@@ -42,6 +44,7 @@
 			<item value="ar.edu.unlp.info.oo2"/>
 		</list>
 		<list key="artifactId">
+			<item value="EjercicioSpOOtify"/>
 			<item value="Ejercicio2P4"/>
 			<item value="Ejercicio3P3"/>
 			<item value="Ejercicio1P3"/>
@@ -90,6 +93,7 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\ger_r\Downloads\facturacion_llamadas"/>
 			<item value="C:\Users\ger_r\Downloads\accesobd"/>
 			<item value="C:\Users\ger_r\Downloads\ej-biblioteca"/>
 		</list>
